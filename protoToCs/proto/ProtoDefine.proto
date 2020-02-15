@@ -1,0 +1,11 @@
+package protocol;
+
+enum ProtoDefine{
+	Handshake		=0;
+StartGame = 1;
+ChessManaul = 2;
+HitChess = 3;
+WinGame = 4;
+ChessLocation = 5;
+CloseConnect = 6;
+}

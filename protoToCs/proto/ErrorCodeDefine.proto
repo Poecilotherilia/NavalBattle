@@ -1,0 +1,6 @@
+package protocol;
+
+enum ErrorCodeDefine{
+	HANDLE_SHAKE_FAILE		=0;//握手成功
+	HANDLE_SHAKE_SUCCEED	=1;//握手失败
+}
